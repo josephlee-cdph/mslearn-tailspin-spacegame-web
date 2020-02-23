@@ -1,0 +1,7 @@
+organization=josephlee-cdph-sc
+projectKey=josephlee-cdph_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.4802
+dashboardUrl=https://sonarcloud.io/dashboard?id=josephlee-cdph_mslearn-tailspin-spacegame-web
+ceTaskId=AXBb7I2lg0RbHJvk0JBu
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXBb7I2lg0RbHJvk0JBu
